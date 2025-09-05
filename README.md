@@ -1,6 +1,6 @@
-REPOSITÓRIO DO MEU CUERÍCULO
+Repositório para minha biografia
 Currículo feito em HTML
 
-LINK PARA MEU CV :
+LINK PARA MINHA BIOGRAFIA:
 
-https://annabeatriz62.github.io/ann/
+
